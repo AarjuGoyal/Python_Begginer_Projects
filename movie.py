@@ -1,3 +1,4 @@
+"""A File for a class to be used in a movie website"""
 import webbrowser
 class Movie():
      """A class about the information of a movie"""
