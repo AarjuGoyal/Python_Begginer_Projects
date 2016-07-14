@@ -1,3 +1,4 @@
+"""A program that changes the file names -removes any numbers- in the folder in the path"""
 import os
 def rename_files():
     #(1) find the files
