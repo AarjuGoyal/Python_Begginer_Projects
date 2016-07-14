@@ -1,5 +1,5 @@
 import turtle
-
+"""A simple program to make a cirle appear by drawing squares repeateadly with a specific angle from each other"""
 def draw_square():
      
 
