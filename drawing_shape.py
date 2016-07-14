@@ -1,4 +1,5 @@
 import turtle
+"""A sample program to test drawing shapes"""
 def draw_square():
      window = turtle.Screen()
      window.bgcolor("red")
