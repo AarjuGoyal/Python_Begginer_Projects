@@ -1,5 +1,5 @@
 from twilio.rest import TwilioRestClient
-
+"""This file sends a message to the mobile nummber through twillio provided the twillio account details are correct"""
 account_sid = "AC49a62eb0782850fa4c059f5fc6457dad" # Your Account SID from www.twilio.com/console
 auth_token  = "aec277bb47870df01c9652871a50cfc6"  # Your Auth Token from www.twilio.com/console
 
