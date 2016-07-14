@@ -1,3 +1,4 @@
+"""A program about basics of Inheritance and Classes"""
 class Parent():
      def __init__(self, last_name_parent, eye_colour_parent):
           print "Parent constructor called"
