@@ -1,5 +1,5 @@
 import turtle
-
+"""A file that draws a pattern made of triangle with the colour scheme given and shape given by the udacity course tutle project"""
 def draw_triangle(side):
      Pointer.begin_fill()
      
